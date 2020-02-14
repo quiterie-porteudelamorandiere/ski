@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Roboto+Slab&display=swap");
+
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/container.css");
+@import url("components/list-inline.css");
+
+
+
+body{
+  font-family: 'Lora', serif;
+  font-size: 18px;
+}
+
+h1 {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  opacity: 0.8;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  color: #748CAB;
+}
+
+h3  {
+  color: #748CAB;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+h4 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
